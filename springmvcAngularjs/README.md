@@ -1,4 +1,4 @@
-spring-mvc-angularjs
+spring-mvcAngularjs
 ====================
 
 A simple application to demonstrate how to configure Angularjs with Spring MVC
